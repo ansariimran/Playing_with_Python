@@ -1,2 +1,2 @@
-# Playing_with_Python
-competitive programming with python &amp; some standalone projects
+# Snake Game
+Simple snake game with no error (completely debugged)
